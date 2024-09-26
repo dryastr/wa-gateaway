@@ -1,0 +1,19 @@
+2024/09/26-17:52:38.553 a6c Reusing MANIFEST C:\Users\LENOVO\Documents\Daraya Store\Programming\laravel-php\task-management\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/26-17:52:38.553 a6c Recovering log #206
+2024/09/26-17:52:38.579 a6c Reusing old log C:\Users\LENOVO\Documents\Daraya Store\Programming\laravel-php\task-management\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000206.log 
+2024/09/26-17:52:43.383 a6c Level-0 table #214: started
+2024/09/26-17:52:43.393 a6c Level-0 table #214: 128320 bytes OK
+2024/09/26-17:52:43.397 a6c Delete type=0 #206
+2024/09/26-17:52:43.397 a6c Manual compaction at level-0 from '\x00;\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-17:52:46.502 423c Compacting 1@1 + 4@2 files
+2024/09/26-17:52:46.614 423c Generated table #215@1: 26988 keys, 2185798 bytes
+2024/09/26-17:52:46.742 423c Generated table #216@1: 18417 keys, 2201217 bytes
+2024/09/26-17:52:46.876 423c Generated table #217@1: 58992 keys, 2203063 bytes
+2024/09/26-17:52:47.057 423c Generated table #218@1: 64524 keys, 1391156 bytes
+2024/09/26-17:52:47.057 423c Compacted 1@1 + 4@2 files => 7981234 bytes
+2024/09/26-17:52:47.060 423c compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/09/26-17:52:47.060 423c Delete type=2 #208
+2024/09/26-17:52:47.060 423c Delete type=2 #209
+2024/09/26-17:52:47.060 423c Delete type=2 #210
+2024/09/26-17:52:47.060 423c Delete type=2 #211
+2024/09/26-17:52:47.060 423c Delete type=2 #214
