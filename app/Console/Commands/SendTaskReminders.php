@@ -18,7 +18,7 @@ class SendTaskReminders extends Command
 
         foreach ($tasks as $task) {
             // Kirim notifikasi
-            Notification::route('mail', 'davids@harakirimail.com') // Ganti dengan email yang sesuai
+            Notification::route('mail', 'davidsatyawibisono01@gmail.com') // Ganti dengan email yang sesuai
                 ->notify(new TaskReminder($task));
 
             // Anda dapat menambahkan logika untuk menandai tugas sebagai sudah diingat jika diperlukan
